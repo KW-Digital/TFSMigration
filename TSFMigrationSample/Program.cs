@@ -11,6 +11,8 @@ namespace TSFMigrationSample
         static void Main(string[] args)
         {
             Console.WriteLine("Success!");
+
+            Console.ReadLine();
         }
     }
 }
